@@ -1,0 +1,22 @@
+{
+  "name": "nexity-landing",
+  "version": "1.0.0",
+  "description": "Landing page of Nexity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nexity",
+    "landing",
+    "page",
+    "responsive",
+    "test"
+  ],
+  "author": "Yannick Houssin",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
