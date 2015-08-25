@@ -212,6 +212,8 @@ header {
     height: 460px;
     padding-top: 5px;
     padding-bottom: 30px; }
+    .bloc-text:after {
+      display: none; }
     .bloc-text h4 {
       margin-top: 20%;
       position: initial; }
